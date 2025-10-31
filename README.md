@@ -26,11 +26,13 @@ Primary Language Java (JDK 17+) Core language for automation logic and framework
 
 Category                                 Tools & Technologies                                                    Description          
 ---------                                ---------------------                                                  --------------
+
 🧩 UI Automation                         
 
 Selenium WebDriver                                         
 
 Foundation for functional and cross-browser testing.
+
 
 ⚡ Modern UI/API
 
@@ -38,11 +40,13 @@ Playwright for Java
 
 Utilized for superior performance, trace viewing, and direct API testing capabilities.
 
+
 ✨ Concise UI/BDD
 
 Selenide
 
 Integrated for clean, fluent testing syntax and BDD-style test creation.
+
 
 🏗 Framework Design  
 
@@ -50,17 +54,20 @@ Page Object Model (POM)
 
 Implemented across all automation tools for code maintainability and reusability.
 
+
 ⚙️ Build Tool
 
 Maven 
 
 Dependency management and test execution orchestration.
 
+
 🧾 Reporting  
 
 TestNG    
 
 Used for execution, grouping, and generating initial HTML reports.
+
 
 🚀 CI/CD (Demo)
 
